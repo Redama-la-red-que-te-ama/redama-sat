@@ -16,7 +16,9 @@ Mi producto de conexión a través de EUROPASAT
 - https://www.satking.de/en/sat--co/montage--co./satellite-dish/satellite-dish/sab-satellite-antenna-100-cm-steel-satellite-dish-satellite-dish-mirror-anthracite
 - https://www.norsat.com/
 
+### Internet vía satélite ilimitado. 
 
+![](https://github.com/Redama-la-red-que-te-ama/redama-sat/raw/main/Images/redama_sat.png)
 
 Redama AIRE - SAT es tu servicio de conexión a Internet a través de satélite Hellas SAT  en la banda Ku.
 
@@ -35,7 +37,7 @@ Características técnicas:
 
 Alta única desde docientos y trece euros impuestos incluidos.
 
-Llama para informaciones al **938 96 27 75** o envia un WhatsApp al **660 922 890**.
+Llama para informaciones al **938 96 27 75** o envía un WhatsApp al **660 922 890**.
 
 
 
