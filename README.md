@@ -10,6 +10,7 @@ Mi producto de conexión a través de EUROPASAT
 - https://es.wikipedia.org/wiki/Banda_Ka
 - https://www.satking.de/
 - https://youtu.be/VuSsmQJQKK4
+- https://www.lyngsat.com/Hellas-Sat-3.html
 
 
 
@@ -20,7 +21,7 @@ Mi producto de conexión a través de EUROPASAT
 
 ![](https://github.com/Redama-la-red-que-te-ama/redama-sat/raw/main/Images/redama_sat.png)
 
-Redama AIRE - SAT es tu servicio de conexión a Internet a través de satélite Hellas SAT  en la banda Ku.
+Redama AIRE - SAT es tu servicio de conexión a Internet a través de satélite Europasat en la banda Ku.
 
 Nuestra conexión se diferencia de las demás ofertas de operadores comerciales por la calidad garantizada del equipo cliente instalado y por la cercanía con nuestros clientes finales. Antena de mayor ganancia, LNB de calidad superior y un amplificador dedicado mejoraran vuestra conexión hacía el satélite aunque hayan condiciones meteorológicas poco favorables al utilizo de este tipo de tecnología como lluvia o nieve.
 
